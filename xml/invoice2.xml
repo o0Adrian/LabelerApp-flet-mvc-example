@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+    <InvoiceNumber>53025</InvoiceNumber>
+    <Products>
+        <Product>
+            <name>Spinach</name>
+            <quantity>1</quantity>
+            <price>5.0</price>
+        </Product>
+    </Products>
+</Invoice>

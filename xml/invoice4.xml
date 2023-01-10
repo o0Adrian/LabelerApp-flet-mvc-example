@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+    <InvoiceNumber>351932</InvoiceNumber>
+    <Products>
+        <Product>
+            <name>Water bottle</name>
+            <quantity>50</quantity>
+            <price>2.0</price>
+        </Product>
+        <Product>
+            <name>Ice Pack</name>
+            <quantity>20</quantity>
+            <price>3.0</price>
+        </Product>
+    </Products>
+</Invoice>

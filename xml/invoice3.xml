@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+    <InvoiceNumber>35925</InvoiceNumber>
+    <Products>
+        <Product>
+            <name>Yogurt</name>
+            <quantity>10</quantity>
+            <price>4.0</price>
+        </Product>
+        <Product>
+            <name>Milk</name>
+            <quantity>2</quantity>
+            <price>8.4</price>
+        </Product>
+        <Product>
+            <name>Cheese</name>
+            <quantity>5</quantity>
+            <price>15.0</price>
+        </Product>
+    </Products>
+</Invoice>

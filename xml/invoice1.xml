@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Invoice>
+    <InvoiceNumber>45291</InvoiceNumber>
+    <Products>
+        <Product>
+            <name>Apple</name>
+            <quantity>5</quantity>
+            <price>10.0</price>
+        </Product>
+        <Product>
+            <name>Pear</name>
+            <quantity>2</quantity>
+            <price>12.0</price>
+        </Product>
+        <Product>
+            <name>Watermelon</name>
+            <quantity>6</quantity>
+            <price>11.4</price>
+        </Product>
+        <Product>
+            <name>Orange</name>
+            <quantity>1</quantity>
+            <price>15.9</price>
+        </Product>
+    </Products>
+</Invoice>
