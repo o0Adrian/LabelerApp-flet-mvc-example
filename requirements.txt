@@ -1,3 +1,5 @@
 reportlab==3.6.12
 xmltodict==0.13.0
 pandas==1.5.2
+flet==0.2.4
+flet-mvc==0.0.3
